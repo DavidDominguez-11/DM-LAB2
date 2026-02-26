@@ -8,3 +8,4 @@ mlxtend
 pyod
 pyclustertend
 yellowbrick
+factor_analyzer
