@@ -9,3 +9,4 @@ pyod
 pyclustertend
 yellowbrick
 factor_analyzer
+umap
